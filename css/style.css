@@ -30,7 +30,7 @@ nav{
 .header {
     display: flex;
     justify-content: space-between;
-    padding: 50px;
+    padding: 16px;
     max-width: 1024px;
 }
 
@@ -44,16 +44,44 @@ ul {
 
 ul li a {
     padding: 0 16px;
+    color: white;
 }
+
+p {
+    margin: 0;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+nav .lista{
+    width: 50%;
+    position: fixed;
+    
+
+   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+
+
+
+
+
 
 .boton{
     display: none;
 }
 
-navv{
-    display: flex;
-    align-items: center;
-}
+
 
 
 
