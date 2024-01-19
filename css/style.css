@@ -83,15 +83,17 @@ nav.active{
 }
 
 .boton{
-    color:white;
+    background: none;
+    color:none;
     width: 20px;
     margin: 4px;
+    border: none;
 }
 
 .boton .linea{
     height: 2px;
     width: 15px;
-    background: black;
+    background: white;
     margin: 4px 0;
     left: 3px;
 }
