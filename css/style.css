@@ -204,7 +204,7 @@ section .content{
     filter: drop-shadow(-10px -10px 200px #f74f10);
 }
 
-@media (max-width:800px){
+@media (max-width:900px){
     .content{
         display: flex;
         width: 100%;
